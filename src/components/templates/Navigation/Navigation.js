@@ -2,7 +2,6 @@ import React from 'react';
 import { NavWrapper, StyledLink, Line, Links, Burger, BurgerLine } from './Navigation.styles';
 import Logo from 'components/atoms/Logo/Logo';
 
-
 const navSlide = () => {
   const links = document.querySelector(Links);
   const styledLink = document.querySelectorAll(StyledLink);
@@ -29,15 +28,15 @@ const Navigation = () => {
     <NavWrapper>
       <Logo />
       <Links>
-        <StyledLink>
+        <StyledLink href="#header-photo">
           Strona Główna
           <Line />
         </StyledLink>
-        <StyledLink>
+        <StyledLink href="#services">
           Usługi
           <Line />
         </StyledLink>
-        <StyledLink>
+        <StyledLink href="#cooperation">
           Kontakt
           <Line />
         </StyledLink>
