@@ -14,7 +14,7 @@ const HeaderPhotos = () => {
   const extraLarge = img1xl;
 
   return (
-    <HeaderPhotosWrapper>
+    <HeaderPhotosWrapper id="header-photo">
       <picture>
         <source media="(max-width: 400px)" srcSet={extraSmall} />
         <source media="(max-width: 770px)" srcSet={small} />

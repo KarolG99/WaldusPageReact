@@ -56,6 +56,7 @@ export const StyledLink = styled.a`
   color: ${({ theme }) => theme.colors.white};
   font-weight: 600;
   cursor: pointer;
+  text-decoration: none;
   &:hover ${Line} {
     width: 100%;
   }
