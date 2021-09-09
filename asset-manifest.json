@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/WaldusPageReact/static/css/main.038b6a15.chunk.css",
+    "main.js": "/WaldusPageReact/static/js/main.be4e51ea.chunk.js",
+    "main.js.map": "/WaldusPageReact/static/js/main.be4e51ea.chunk.js.map",
+    "runtime-main.js": "/WaldusPageReact/static/js/runtime-main.98e5b091.js",
+    "runtime-main.js.map": "/WaldusPageReact/static/js/runtime-main.98e5b091.js.map",
+    "static/js/2.cadca9d9.chunk.js": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js",
+    "static/js/2.cadca9d9.chunk.js.map": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js.map",
+    "index.html": "/WaldusPageReact/index.html",
+    "static/css/main.038b6a15.chunk.css.map": "/WaldusPageReact/static/css/main.038b6a15.chunk.css.map",
+    "static/js/2.cadca9d9.chunk.js.LICENSE.txt": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js.LICENSE.txt",
+    "static/media/agreement.b73118f7.svg": "/WaldusPageReact/static/media/agreement.b73118f7.svg",
+    "static/media/analytics.b7615e54.svg": "/WaldusPageReact/static/media/analytics.b7615e54.svg",
+    "static/media/arrow-down.d6a128ce.svg": "/WaldusPageReact/static/media/arrow-down.d6a128ce.svg",
+    "static/media/contact-us.e7c386fd.svg": "/WaldusPageReact/static/media/contact-us.e7c386fd.svg",
+    "static/media/diggerIcon.f7b813ae.svg": "/WaldusPageReact/static/media/diggerIcon.f7b813ae.svg",
+    "static/media/fencesIcon.a12aa210.svg": "/WaldusPageReact/static/media/fencesIcon.a12aa210.svg",
+    "static/media/headerimg-1350-600.43874c66.jpg": "/WaldusPageReact/static/media/headerimg-1350-600.43874c66.jpg",
+    "static/media/headerimg-1920-600.1e0c3c8d.jpg": "/WaldusPageReact/static/media/headerimg-1920-600.1e0c3c8d.jpg",
+    "static/media/headerimg-2600-690.393ac1e1.jpg": "/WaldusPageReact/static/media/headerimg-2600-690.393ac1e1.jpg",
+    "static/media/headerimg-400-690.e246a226.jpg": "/WaldusPageReact/static/media/headerimg-400-690.e246a226.jpg",
+    "static/media/headerimg-770-690.dc37ae17.jpg": "/WaldusPageReact/static/media/headerimg-770-690.dc37ae17.jpg",
+    "static/media/pavingIcon.389615f1.svg": "/WaldusPageReact/static/media/pavingIcon.389615f1.svg",
+    "static/media/renovationIcon.6bed279d.svg": "/WaldusPageReact/static/media/renovationIcon.6bed279d.svg",
+    "static/media/well-done.e0969162.svg": "/WaldusPageReact/static/media/well-done.e0969162.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e5b091.js",
+    "static/js/2.cadca9d9.chunk.js",
+    "static/css/main.038b6a15.chunk.css",
+    "static/js/main.be4e51ea.chunk.js"
+  ]
+}
