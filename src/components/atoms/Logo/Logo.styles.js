@@ -10,4 +10,8 @@ export const StyledLogo = styled.div`
     letter-spacing: 2px;
     cursor: pointer;
   }
+  a {
+    text-decoration: none;
+    color: ${({ theme }) => theme.colors.white};
+  }
 `;

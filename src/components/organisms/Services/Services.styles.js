@@ -14,7 +14,7 @@ export const Article = styled.article`
 export const ServicesHeader = styled.h2`
   max-width: 100vw;
   background-color: ${({ theme }) => theme.colors.lightOrange};
-  margin: 40px 30vw 20px 30vw;
+  margin: 70px 30vw 20px 30vw;
   padding: 0.2rem 0.6rem 0.2rem 0.6rem;
   border-radius: 15px 15px 15px 15px;
   font-size: ${({ theme }) => theme.fontSize.xl};
