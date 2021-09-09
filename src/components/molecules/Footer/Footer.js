@@ -9,7 +9,10 @@ const Footer = () => {
         <Line />
       </h4>
       <ContactDetails>
-        <a href="tel:123456789"> Tel: (+48) 123 456 789</a>
+        <a href="tel:123456789">
+          {' '}
+          Tel: (+48)<strong> 123 456 789</strong>
+        </a>
         <p>Jastrzębia (adres)</p>
         <p>33-191</p>
         <p>woj. małopolskie</p>
