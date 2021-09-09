@@ -16,7 +16,7 @@ const HeaderPhotos = () => {
   return (
     <HeaderPhotosWrapper id="header-photo">
       <picture>
-        <source media="(max-width: 400px)" srcSet={extraSmall} />
+        <source media="(max-width: 300px)" srcSet={extraSmall} />
         <source media="(max-width: 770px)" srcSet={small} />
         <source media="(max-width: 1350px)" srcSet={medium} />
         <source media="(max-width: 1920)" srcSet={large} />

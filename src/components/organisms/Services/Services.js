@@ -7,8 +7,8 @@ import Excavator from 'components/molecules/Excavator/Excavator';
 
 const Services = () => {
   return (
-    <Article>
-      <ServicesHeader id="services"> Usługi </ServicesHeader>
+    <Article id="services">
+      <ServicesHeader> Usługi </ServicesHeader>
       <Paving />
       <Renovation />
       <Fences />

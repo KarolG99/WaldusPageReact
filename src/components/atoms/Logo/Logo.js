@@ -4,7 +4,9 @@ import { StyledLogo } from './Logo.styles';
 const Logo = () => {
   return (
     <StyledLogo>
-      <h1>Walduś</h1>
+      <h1>
+        <a href="#header-photo">Walduś</a>
+      </h1>
     </StyledLogo>
   );
 };
