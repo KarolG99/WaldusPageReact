@@ -16,7 +16,7 @@ const Root = () => {
     <ThemeProvider theme={theme}>
       <GlobalStyle />
       <header>
-        <Navigation></Navigation>
+        <Navigation />
         <HeaderPhotos />
         <Quote />
       </header>

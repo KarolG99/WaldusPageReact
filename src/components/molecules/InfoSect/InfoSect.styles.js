@@ -1,5 +1,18 @@
 import styled from 'styled-components';
 
+export const SiteIsBuildingInfo = styled.p`
+  margin-bottom: 70px;
+  font-weight: 600;
+  background-color: ${({ theme }) => theme.colors.lightOrange};
+  /* opacity: 0.8; */
+  color: ${({ theme }) => theme.colors.black};
+  padding: 10px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+`;
+
 export const Section = styled.div`
   display: flex;
   justify-content: center;
