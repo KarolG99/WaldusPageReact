@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WaldusPageReact/static/css/main.038b6a15.chunk.css",
-    "main.js": "/WaldusPageReact/static/js/main.4329fce8.chunk.js",
-    "main.js.map": "/WaldusPageReact/static/js/main.4329fce8.chunk.js.map",
+    "main.js": "/WaldusPageReact/static/js/main.b847493b.chunk.js",
+    "main.js.map": "/WaldusPageReact/static/js/main.b847493b.chunk.js.map",
     "runtime-main.js": "/WaldusPageReact/static/js/runtime-main.98e5b091.js",
     "runtime-main.js.map": "/WaldusPageReact/static/js/runtime-main.98e5b091.js.map",
-    "static/js/2.cadca9d9.chunk.js": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js",
-    "static/js/2.cadca9d9.chunk.js.map": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js.map",
+    "static/js/2.aee08359.chunk.js": "/WaldusPageReact/static/js/2.aee08359.chunk.js",
+    "static/js/2.aee08359.chunk.js.map": "/WaldusPageReact/static/js/2.aee08359.chunk.js.map",
     "index.html": "/WaldusPageReact/index.html",
     "static/css/main.038b6a15.chunk.css.map": "/WaldusPageReact/static/css/main.038b6a15.chunk.css.map",
-    "static/js/2.cadca9d9.chunk.js.LICENSE.txt": "/WaldusPageReact/static/js/2.cadca9d9.chunk.js.LICENSE.txt",
+    "static/js/2.aee08359.chunk.js.LICENSE.txt": "/WaldusPageReact/static/js/2.aee08359.chunk.js.LICENSE.txt",
     "static/media/agreement.b73118f7.svg": "/WaldusPageReact/static/media/agreement.b73118f7.svg",
     "static/media/analytics.b7615e54.svg": "/WaldusPageReact/static/media/analytics.b7615e54.svg",
     "static/media/arrow-down.d6a128ce.svg": "/WaldusPageReact/static/media/arrow-down.d6a128ce.svg",
@@ -21,14 +21,15 @@
     "static/media/headerimg-2600-690.393ac1e1.jpg": "/WaldusPageReact/static/media/headerimg-2600-690.393ac1e1.jpg",
     "static/media/headerimg-400-690.e246a226.jpg": "/WaldusPageReact/static/media/headerimg-400-690.e246a226.jpg",
     "static/media/headerimg-770-690.dc37ae17.jpg": "/WaldusPageReact/static/media/headerimg-770-690.dc37ae17.jpg",
+    "static/media/iconmonstr-warning-6.862c82a2.svg": "/WaldusPageReact/static/media/iconmonstr-warning-6.862c82a2.svg",
     "static/media/pavingIcon.389615f1.svg": "/WaldusPageReact/static/media/pavingIcon.389615f1.svg",
     "static/media/renovationIcon.6bed279d.svg": "/WaldusPageReact/static/media/renovationIcon.6bed279d.svg",
     "static/media/well-done.e0969162.svg": "/WaldusPageReact/static/media/well-done.e0969162.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.98e5b091.js",
-    "static/js/2.cadca9d9.chunk.js",
+    "static/js/2.aee08359.chunk.js",
     "static/css/main.038b6a15.chunk.css",
-    "static/js/main.4329fce8.chunk.js"
+    "static/js/main.b847493b.chunk.js"
   ]
 }
